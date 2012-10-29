@@ -363,7 +363,7 @@ form .hint_area {
 	text-decoration:none;
 }
 #header .logo_wrapper .logo {
-  background: no-repeat left top;
+  background: no-repeat center center;
 	display:block;	
 }
 #header .logo_wrapper .site_name {
@@ -1359,7 +1359,7 @@ form .hint_area {
 	padding: 0;
   margin: 30px 0 0 0;
   float: left;
-  width: 280px;
+  width: 302px;
 }
 #product .extra_images ul {
 	padding: 0;
@@ -1368,7 +1368,7 @@ form .hint_area {
 }
 #product .extra_images li {
 	float:left;
-	margin: 0 8px 0 0;
+	margin:0;
 }
 #product .extra_images li span {
 	display: block;	
@@ -1377,6 +1377,9 @@ form .hint_area {
 	background: #fff no-repeat center center;
 	margin: 0 10px 10px 0;
 	border: 1px solid #eaeaea;
+}
+#product .extra_images .last span {
+	margin: 0 0px 10px 0;
 }
 #product .buy {
 	margin:0 0 0 30px;
