@@ -1246,6 +1246,9 @@ form .hint_area {
 	padding:0;
 }
 /*------------------ product ------------------*/
+#product .padding{
+  overflow:hidden; 
+}
 #product h1 {
 }
 

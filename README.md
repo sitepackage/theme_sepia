@@ -4,6 +4,7 @@ Sepia Theme
 Changes
 -------------
 2012-10-29
+- หน้า product.tt  แก้ไข Content ด้านล่างทำ overflow hidden 
 - ตรวจสอบขนาดของ Logo
 - ปรับขนาดภาพ thumbnail ใต้รูปใหญ่หน้า product.tt
 - เพิ่ม class=last ในส่วนของ thumbnail
